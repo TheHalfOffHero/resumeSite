@@ -1,0 +1,3 @@
+[submodule "mattResume/themes/LoveIt"]
+	path = mattResume/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
