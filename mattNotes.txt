@@ -1,0 +1,1 @@
+URI for Azure storage account: https://portfoliofrontend.z13.web.core.windows.net/
