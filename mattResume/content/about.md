@@ -19,7 +19,7 @@ Education
 :   **Computer Science**; Purdue University (Fort Wayne)
 
 
-2011-2015 (expected)
+2011-2015 
 :   **Biology**; Indiana University (Bloomington, IN)
 
     *Minor: Computer Science*
@@ -47,7 +47,7 @@ Programming Languages/DevOps Tools
 
 :   **Bash:** I used bash the most in my time at Sharetec. While I don't really consider it a programming language I use it whenever I need to automate tasks in a Linux environment.
 
-:   **Powershell** In the same vein as Bash, I have primarily used powershell to script out and tasks normally done in windows. We often use powershell to query Azure and Azure DevOps to generate reporting for our teams at Mesh to use.
+:   **Powershell** In the same vein as Bash, I have primarily used powershell to script out tasks normally done in windows. We often use powershell to query Azure and Azure DevOps to generate reporting for our teams at Mesh to use.
 
 :   **Terraform and Bicep** I have used both Terraform and Bicep to build infrastructure. I use Terraform at home when working on my homelab or personal projects and I primarily use Microsoft's Bicep to build Azure infrastructure at work.
 
@@ -62,4 +62,4 @@ Programming Languages/DevOps Tools
 Certifications
 ----------------------------------------
 
-**Az-900, Azure Fundamentals**
+**Az-900, Azure Fundamentals** 
