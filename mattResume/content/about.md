@@ -15,14 +15,9 @@ I have a great love for all things tech. From my earliest years I've sought to l
 Education
 ---------
 
-2016-2019
-:   **Computer Science**; Purdue University (Fort Wayne)
+   **Computer Science**; Purdue University (Fort Wayne, IN)
 
-
-2011-2015 
-:   **Biology**; Indiana University (Bloomington, IN)
-
-    *Minor: Computer Science*
+   **Biology**; Indiana University (Bloomington, IN)
 
 Experience
 ----------
