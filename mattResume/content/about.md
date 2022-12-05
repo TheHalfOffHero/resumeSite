@@ -52,9 +52,13 @@ Programming Languages/DevOps Tools
 
 :   **Git** Any project I do, be it at work or at home, is done using a VCS. At work we use Azure DevOps but at home I prefer GitHub.
 
+:   **Docker** At home I manage a portainer instance that hosts a number of services. Each is defined in a docker compose stack.
+
 :   Basic knowledge of **Go**,**Java**, **C#**
 
 Certifications
 ----------------------------------------
 
 **Az-900, Azure Fundamentals** 
+
+**Az-104, Azure Administrator Associate**
