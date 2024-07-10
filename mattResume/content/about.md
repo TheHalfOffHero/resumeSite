@@ -24,7 +24,7 @@ Experience
 
 **Associate DevOps Engineer:**
 
-As an associate DevOps Engineer for [Mesh Systems](https://meshsystems.com/) Mesh Systems I worked primarily with Azure and Azure DevOps, Writing IAC with Bicep/Terraform and building CI/CD pipelines. I also spent time scripting out solutions in Powershell and collaborating with development and product team members to help deliver products and features to our clients.
+As an associate DevOps Engineer for [Mesh Systems](https://meshsystems.com/) Mesh Systems I worked primarily with Azure and Azure DevOps, Writing IAC with Bicep/Terraform and building CI/CD pipelines. I also spent time scripting out solutions in Powershell and Bash as well as collaborating with development and product team members to help deliver features to our clients.
 
 **IT Project Engineer:**
 
@@ -33,11 +33,11 @@ As an IT Projects Engineer for Bradford-Scott Data Corp also known as [Sharetec]
 Technical Experience
 --------------------
 
-Homelab
-:   I maintain a homelab that consists of ubiquiti network equipment and a proxmox hypervisor. On my home server I like to spin up any hosted services to play with and learn. Currently running 24/7 I have a docker host running portainer, pihole and unbound for dns, plex, and a nas for long term redundant storage. 
+## Homelab
+:   I maintain a homelab that consists of a small collection of network equipment and a proxmox hypervisor. On my home server I like to spin up hosted services to play and learn with. Currently I have a docker host running portainer with an assortment of containers, pihole and unbound for dns, plex, and a nas for long term redundant storage. I also have a kubernetes cluster up and running that can be brought up and down whenever with terraform.  
 
 
-Programming Languages/DevOps Tools
+## Programming Languages/DevOps Tools
 :   **Python:** I try to do most of my side projects using python if possible. I spent a great deal of time compiled languages in college so python, with its simple syntax was a breath of fresh air. While I'm not a master I'm capable enough to work out solutions when reference material is available. 
 
 :   **Bash:** I used bash the most in my time at Sharetec. While I don't really consider it a programming language I use it whenever I need to automate tasks in a Linux environment.
@@ -49,6 +49,8 @@ Programming Languages/DevOps Tools
 :   **Microsoft Azure** At Mesh Systems we are a Microsoft shop, so all of our infrasture is hosted primarily in Azure.
 
 :   **Azure Pipelines** Azure pipelines is our defacto way of performing CI/CD for our projects at Mesh Systems.
+
+:  **Kubernetes** I have a small cluster running in my homelab. I have done some basic work with AKS at mesh and services that abstract away portions of kubernetes such as Azure Container Apps
 
 :   **Git** Any project I do, be it at work or at home, is done using a VCS. At work we use Azure DevOps but at home I prefer GitHub.
 
@@ -62,3 +64,5 @@ Certifications
 **Az-900, Azure Fundamentals** 
 
 **Az-104, Azure Administrator Associate**
+
+**Az-400, Azure DevOps Expert**
