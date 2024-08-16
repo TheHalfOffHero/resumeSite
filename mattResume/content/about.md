@@ -57,7 +57,7 @@ Technical Experience
 
 :   **Docker** At home I manage a portainer instance that hosts a number of services. Each is defined in a docker compose stack.
 
-:   Basic knowledge of **Go**,**Java**, **C#**, **.NET**
+:   Basic knowledge of **Go**,**Java**, **C#**, **.NET**, **K8s**
 
 Certifications
 ----------------------------------------
