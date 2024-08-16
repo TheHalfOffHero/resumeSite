@@ -38,9 +38,10 @@ Technical Experience
 
 
 ## Programming Languages/DevOps Tools
-:   **Python:** I try to do most of my side projects using python if possible. I spent a great deal of time compiled languages in college so python, with its simple syntax was a breath of fresh air. While I'm not a master I'm capable enough to work out solutions when reference material is available. 
 
-:   **Bash:** I used bash the most in my time at Sharetec. While I don't really consider it a programming language I use it whenever I need to automate tasks in a Linux environment.
+:  **Python:** I try to do most of my side projects using python if possible. I spent a great deal of time compiled languages in college so python, with its simple syntax was a breath of fresh air. While I'm not a master I'm capable enough to work out solutions when reference material is available. 
+
+:  **Bash:** I used bash the most in my time at Sharetec. While I don't really consider it a programming language I use it whenever I need to automate tasks in a Linux environment.
 
 :   **Powershell** In the same vein as Bash, I have primarily used powershell to script out tasks normally done in windows. We often use powershell to query Azure and Azure DevOps to generate reporting for our teams at Mesh to use.
 
@@ -56,7 +57,7 @@ Technical Experience
 
 :   **Docker** At home I manage a portainer instance that hosts a number of services. Each is defined in a docker compose stack.
 
-:   Basic knowledge of **Go**,**Java**, **C#**
+:   Basic knowledge of **Go**,**Java**, **C#**, **.NET**
 
 Certifications
 ----------------------------------------
