@@ -39,25 +39,25 @@ Technical Experience
 
 ## Programming Languages/DevOps Tools
 
-:  **Python:** I try to do most of my side projects using python if possible. I spent a great deal of time compiled languages in college so python, with its simple syntax was a breath of fresh air. While I'm not a master I'm capable enough to work out solutions when reference material is available. 
+**Python:** I try to do most of my side projects using python if possible. I spent a great deal of time compiled languages in college so python, with its simple syntax was a breath of fresh air. While I'm not a master I'm capable enough to work out solutions when reference material is available. 
 
-:  **Bash:** I used bash the most in my time at Sharetec. While I don't really consider it a programming language I use it whenever I need to automate tasks in a Linux environment.
+**Bash:** I used bash the most in my time at Sharetec. While I don't really consider it a programming language I use it whenever I need to automate tasks in a Linux environment.
 
-:   **Powershell** In the same vein as Bash, I have primarily used powershell to script out tasks normally done in windows. We often use powershell to query Azure and Azure DevOps to generate reporting for our teams at Mesh to use.
+**Powershell** In the same vein as Bash, I have primarily used powershell to script out tasks normally done in windows. We often use powershell to query Azure and Azure DevOps to generate reporting for our teams at Mesh to use.
 
-:   **Terraform and Bicep** I have used both Terraform and Bicep to build infrastructure. I use Terraform at home when working on my homelab or personal projects and I primarily use Microsoft's Bicep to build Azure infrastructure at work.
+**Terraform and Bicep** I have used both Terraform and Bicep to build infrastructure. I use Terraform at home when working on my homelab or personal projects and I primarily use Microsoft's Bicep to build Azure infrastructure at work.
 
-:   **Microsoft Azure** At Mesh Systems we are a Microsoft shop, so all of our infrasture is hosted primarily in Azure.
+**Microsoft Azure** At Mesh Systems we are a Microsoft shop, so all of our infrasture is hosted primarily in Azure.
 
-:   **Azure Pipelines** Azure pipelines is our defacto way of performing CI/CD for our projects at Mesh Systems.
+**Azure Pipelines** Azure pipelines is our defacto way of performing CI/CD for our projects at Mesh Systems.
 
-:  **Kubernetes** I have a small cluster running in my homelab. I have done some basic work with AKS at mesh and services that abstract away portions of kubernetes such as Azure Container Apps
+**Kubernetes** I have a small cluster running in my homelab. I have done some basic work with AKS at mesh and services that abstract away portions of kubernetes such as Azure Container Apps
 
-:   **Git** Any project I do, be it at work or at home, is done using a VCS. At work we use Azure DevOps but at home I prefer GitHub.
+**Git** Any project I do, be it at work or at home, is done using a VCS. At work we use Azure DevOps but at home I prefer GitHub.
 
-:   **Docker** At home I manage a portainer instance that hosts a number of services. Each is defined in a docker compose stack.
+**Docker** At home I manage a portainer instance that hosts a number of services. Each is defined in a docker compose stack.
 
-:   Basic knowledge of **Go**,**Java**, **C#**, **.NET**, **K8s**
+Basic knowledge of **Go**,**Java**, **C#**, **.NET**, **K8s**
 
 Certifications
 ----------------------------------------
