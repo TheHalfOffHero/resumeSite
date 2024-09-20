@@ -22,7 +22,7 @@ Education
 Experience
 ----------
 
-**Associate DevOps Engineer:**
+**Associate Software Engineer - DevOps:**
 
 As an associate DevOps Engineer for [Mesh Systems](https://meshsystems.com/) Mesh Systems I worked primarily with Azure and Azure DevOps, Writing IAC with Bicep/Terraform and building CI/CD pipelines. I also spent time scripting out solutions in Powershell and Bash as well as collaborating with development and product team members to help deliver features to our clients.
 
@@ -38,6 +38,8 @@ Technical Experience
 
 
 ## Programming Languages/DevOps Tools
+
+**C# and Dotnet** I have a good understanding of the C# library and the dotnet framework. I have done some small feature work professionally but most of my experience is on personal projects. 
 
 **Python:** I try to do most of my side projects using python if possible. I spent a great deal of time compiled languages in college so python, with its simple syntax was a breath of fresh air. While I'm not a master I'm capable enough to work out solutions when reference material is available. 
 
@@ -55,9 +57,9 @@ Technical Experience
 
 **Git** Any project I do, be it at work or at home, is done using a VCS. At work we use Azure DevOps but at home I prefer GitHub.
 
-**Docker** At home I manage a portainer instance that hosts a number of services. Each is defined in a docker compose stack.
+**Docker** At home I manage a portainer instance that hosts a number of services. Each is defined in a docker compose stack. And we also deploy mainly azure container apps which use images built with dockerfiles and stored in container registries.
 
-Basic knowledge of **Go**,**Java**, **C#**, **.NET**, **K8s**
+Basic knowledge of **Go**,**Java**,**React**,**Node**
 
 Certifications
 ----------------------------------------
