@@ -34,7 +34,7 @@ Technical Experience
 --------------------
 
 ## Homelab
-:   I maintain a homelab that consists of a small collection of network equipment and a proxmox hypervisor. On my home server I like to spin up hosted services to play and learn with. Currently I have a docker host running portainer with an assortment of containers, pihole and unbound for dns, plex, and a nas for long term redundant storage. I also have a kubernetes cluster up and running that can be brought up and down whenever with terraform.  
+I maintain a homelab that consists of a small collection of network equipment and a proxmox hypervisor. On my home server I like to spin up hosted services to play and learn with. Currently I have a docker host running portainer with an assortment of containers, pihole and unbound for dns, plex, and a nas for long term redundant storage. I also have a kubernetes cluster up and running that can be brought up and down whenever with terraform.  
 
 
 ## Programming Languages/DevOps Tools
