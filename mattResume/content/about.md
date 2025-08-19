@@ -14,17 +14,28 @@ I have a great love for all things tech. From my earliest years I've sought to l
 
 Education
 ---------
+   **Masters Computer Science**; Georgia Tech University (Atlanta, GA) **In Progress**
 
-   **Computer Science**; Purdue University (Fort Wayne, IN)
+   **Bachelors Computer Science**; Purdue University (Fort Wayne, IN)
 
-   **Biology**; Indiana University (Bloomington, IN)
+   **Bachelors Biology**; Indiana University (Bloomington, IN)
 
 Experience
 ----------
 
-**Associate Software Engineer - DevOps:**
+**DevOps Engineer:**
 
-As an associate DevOps Engineer for [Mesh Systems](https://meshsystems.com/) Mesh Systems I worked primarily with Azure and Azure DevOps, Writing IAC with Bicep/Terraform and building CI/CD pipelines. I also spent time scripting out solutions in Powershell and Bash as well as collaborating with development and product team members to help deliver features to our clients.
+As a DevOps Engineer for [Mesh Systems](https://meshsystems.com/) Mesh Systems I work to build and maintain the infrastructure that supports our IoT solutions. This includes building and maintaining Azure infrastructure, CI/CD pipelines, and containerized applications. I also work closely with our development teams to ensure that our applications are deployed efficiently and reliably. The role allowed for interaction with a variety of technologies and the opportunity to implement best practices in cloud architecture and DevOps methodologies. Some examples include:
+
+- Implementing Infrastructure as Code (IaC) using Terraform Bicep, and Terraform CDK to automate the deployment of Azure resources.
+- Designing and optimizing CI/CD pipelines using Azure DevOps to streamline the development process.
+- Collaborating with development teams to containerize applications using Docker and deploy them to Azure Container Apps.
+- Github Actions for automating workflows and CI/CD processes.
+- Azure Monitor and Application Insights for monitoring and logging.
+- Azure Policy and Blueprints for governance and compliance.
+- Dotnet core for building and deploying microservices.
+- Powershell and Bash scripting.
+- Ansible for configuration management and automation.
 
 **IT Project Engineer:**
 
